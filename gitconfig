@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vitordovalep@gmail.com
+	name = Vitor Pereira
